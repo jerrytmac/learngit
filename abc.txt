@@ -4,4 +4,9 @@ Git is free software
 wocaonimao
 woshinidaye
 woxihuanni
+<<<<<<< HEAD
 woshinidaye
+=======
+xihuannimeidaoli
+>>>>>>> dev
+dddd
